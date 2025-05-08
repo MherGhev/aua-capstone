@@ -2,8 +2,8 @@
 
 This project focuses on developing and experimenting with Convolutional Neural Networks (CNN) and U-Net architectures for image colorization. The models take grayscale images as input and predict the colorized versions in the LAB color space.
 
-![Sample image 1](./sample_image_1.png)
-![Sample image 2](./sample_image_2.png)
+![Sample image 1](./assets/sample_image_1.png)
+![Sample image 2](./assets/sample_image_2.png)
 
 
 ---
@@ -47,6 +47,10 @@ aua-capstone/
 ├── .gitignore
 ├── requirements.txt
 ├── Readme.md
+├── assets/  
+│   ├── sample_image_1.png      # For displaying the result in the Readme
+│   ├── sample_image_2.png      # For displaying the result in the Readme
+│   ├── Captsone Paper.pdf 
 ```
 ---
 
