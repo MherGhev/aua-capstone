@@ -61,7 +61,13 @@ aua-capstone/
    git clone <repository-url>
    cd aua-capstone
    ```
-2. **Set up a virtual Environment**:
+
+2. **Make Sure your python version is `3.10.17`**
+    ```bash
+    python --version
+    ```
+    
+3. **Set up a virtual Environment**:
     ```bash
     python3 -m venv capstone-env
     source capstone-env/bin/activate
